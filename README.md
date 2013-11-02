@@ -63,7 +63,7 @@ Debian 5.0, kernel 2.6.28, x86_64
 Author
 ======
 
-Petr Zemek <s3rvac@gmail.com>
+Petr Zemek <s3rvac@gmail.com>, 2009
 
 License
 =======

@@ -1,6 +1,6 @@
 --
 -- Project: SHWS - Simple Haskell Web Server
--- Author:  Petr Zemek <s3rvac@gmail.com>
+-- Author:  Petr Zemek <s3rvac@gmail.com>, 2009
 --
 
 -- | MIME types and related functions.
