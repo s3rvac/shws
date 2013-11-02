@@ -1,5 +1,5 @@
 SHWS - Simple Haskell Web Server
-======================================
+================================
 
 SHWS is a simple web server written in Haskell.
 
