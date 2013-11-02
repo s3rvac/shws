@@ -36,7 +36,7 @@ defaultServerRoot = "wwwroot"
 defaultIndexFile :: String
 defaultIndexFile  = "index.html"
 defaultLogFile :: String
-defaultLogFile = "logs/shws.log"
+defaultLogFile = "log/shws.log"
 defaultTimeout :: Int
 defaultTimeout = 0
 
